@@ -1,0 +1,102 @@
+
+body{ 
+    font-family: 'Potta One', cursive;
+    margin: 0%;
+}
+
+h1{
+    font-size: 50px;}
+
+.color-blue{
+    color:darkcyan
+}
+.colour-orange{
+    color: lightpink;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+
+}
+.half-width img{
+    width: 100%
+    
+}
+.second-part{
+    background-image: url(images/pic/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+    
+    
+
+}
+section{
+    height: 500px;
+    
+}
+.anchor-button{
+text-decoration: none;
+background-color: greenyellow 
+
+}
+.anchor-button{
+    padding: 10px 20px;
+   border-radius: 10px;
+   
+   padding-top: -5px;
+   color: black;
+    font-weight: 100;
+    background-image: linear-gradient(90deg,lightpink, cyan)
+
+}
+p{
+    color: lightsteelblue
+}
+
+#what{
+    color: mediumvioletred;
+    font-weight: bold;
+    font-size: 40px;
+}
+#ki{
+    color: skyblue;
+    font-size: 20px;
+
+}
+.anchor-2{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    font-weight: 100;
+    background-image: linear-gradient(90deg, orange, magenta);
+    border-radius: 10px;
+
+}
+.colour-lightpink{
+    color: tomato
+}
+.colour-cyan{
+    color: tomato
+}
+.light-green{
+    color: tomato
+}
+.dream{
+    color: orange
+}
+.background{
+    background-image: url(images/pic/dream-bg.png);
+    background-repeat: no-repeat;
+    
+}
+
+.half-width-font{
+width: 50%;
+    
+}
+.foot{
+    position: fixed;
+}
